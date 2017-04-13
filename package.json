@@ -1,15 +1,15 @@
 {
-  "name": "chat-websockets",
+  "name": "chat",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chat Application builded with WebSockets and jQuery",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Chiefman",
   "license": "ISC",
   "dependencies": {
-    "express": "*",
-    "socket.io": "*"
+    "socket.io":"*",
+    "express":"*"
   }
 }
